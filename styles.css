@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-image: url(img/main1.jpg);
+  background-image: url(main1.jpg);
   background-size: cover;
   padding-bottom: 500px;
 }
