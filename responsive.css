@@ -1,7 +1,7 @@
 @media screen and (max-width: 900px) {
 
   header {
-    padding-bottom: 300px;
+    padding-bottom: 250px;
   }
 
   header .container {
@@ -24,6 +24,10 @@
 }
 
 @media screen and (max-width: 780px) {
+
+  header {
+    padding-bottom: 200px;
+  }
 
   .product {
     padding: 100px 0 50px 0;
@@ -60,6 +64,10 @@
 
 @media screen and (max-width: 700px) {
 
+  header {
+    padding-bottom: 150px;
+  }
+
   .main .container {
     max-width: 700px;
     width: 80%;
@@ -68,6 +76,10 @@
 }
 
 @media screen and (max-width: 580px) {
+
+  header {
+    padding-bottom: 100px;
+  }
 
   .main {
     padding: 50px 0;
@@ -157,32 +169,22 @@
     display: none;
   }
 
+  .share {
+    padding: 25px;
+  }
+
   .share .container {
-    display: flex;
     flex-wrap: wrap;
   }
 
-  .facebook {
-    margin: 0;
-  }
-
-  .twitter {
-    margin: 0;
-  }
-
-  .hatena {
-    margin: 0;
+  .btn {
+    width: 40%;
+    margin: 5px;
+    font-size: 12px;
   }
 
   .line {
-    margin: 0;
     display: block;
-  }
-
-  .btn {
-    width: 45%;
-    margin: 5px;
-    margin-left: 15px;
   }
 
   .footer-list {
