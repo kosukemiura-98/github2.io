@@ -16,6 +16,10 @@
   .header-menu {
     display: block;
   }
+  
+  .header-menu a {
+    color: #656c6e;
+  }
 
   .header-right {
     display: none;
