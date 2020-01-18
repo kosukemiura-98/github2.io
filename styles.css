@@ -366,7 +366,6 @@ footer img:hover {
 .header-menu .container {
   display: flex;
   justify-content: space-between;
-  width: 90%;
 }
 
 .fa-bars {
